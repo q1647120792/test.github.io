@@ -1,6 +1,6 @@
 .container {
  font-size:1.1em;
- margin:60px ;
+ margin:60px auto;
  width:300px
 }
 #calculate {
